@@ -1118,7 +1118,7 @@ That is SmartScreen for unsigned exes — "More info" → "Run anyway". Code sig
 
 Original StormKitty by [LimerBoy](https://github.com/MLX15/StormKitty) · MIT — see
 [LICENSE](LICENSE). Published for study and authorized testing only; the author accepts no
-liability for misuse. Be kind to your targets — it is a prank, not a disaster.
+liability for misuse. Be kind to your targets.
 
 Made with 💗, and two cute kitties.
 
